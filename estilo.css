@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+
+body{
+  background-image: url(images/batatafundo.jpg);
+  z-index: 1;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* Inicío do menu */
+
+.cabecario{
+  background-image: linear-gradient(#FAE403, #F0CA0C);
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.titulo{
+  font-size: 1.5rem;
+  font-family: 'Ephesis', cursive;
+}
+
+/* Fim do menu */
+
+.conteudo{
+  background-image: linear-gradient(#FAE403, #F0CA0C);
+  padding: 1rem;
+  margin-top: 20rem;
+  text-align: center;
+}
+
